@@ -1,3 +1,3 @@
 # origin-one
 Remote origin one of two the other in Gitlab
-Success! Git push to all the remotes. Brill.
+Success! Git push to all the remotes. Created a new branch.
