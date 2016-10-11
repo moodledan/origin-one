@@ -1,2 +1,2 @@
 # origin-one
-Remote origin one or two
+Remote origin one of two
